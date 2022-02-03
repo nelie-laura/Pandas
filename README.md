@@ -1,2 +1,2 @@
 # Pandas
-Get started with pandas
+Get started with python library pandas
